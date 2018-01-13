@@ -1,0 +1,1 @@
+pyuic5 -x MainUi.ui -o NewAB.py
